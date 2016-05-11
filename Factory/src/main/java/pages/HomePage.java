@@ -10,7 +10,7 @@ public class HomePage {
     private WebDriver driver;
 
     @FindBy(css = "a[href*=\"login\"]")
-    private static WebElement loginButton;
+    private WebElement loginButton;
 
     public HomePage(WebDriver driver) {
         this.driver = driver;
