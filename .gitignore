@@ -4,3 +4,6 @@
 */target/
 */build/
 */.idea/
+*/bin
+*/obj
+*/debug
